@@ -1,6 +1,6 @@
-## Approach 1: SQLAlchemy
-
 # Housing Data REST API
+
+## Approach 1: SQLAlchemy
 
 ```markdown
 
@@ -8,12 +8,12 @@ This is a Flask-based REST API that handles housing data. It provides endpoints 
 
 ## Installation and Setup
 
-1. Clone the repository: [repository-url]
+1. Clone this repository.
 2. Install the required dependencies:
    pip install flask flask_sqlalchemy
 3. Set up your PostgreSQL database. Update the connection details in the code if necessary.
 4. Start the Flask server:
-   python app.py
+   python app1.py
 5. The server will start running at `http://localhost:5000`.
 ```
 
@@ -78,16 +78,12 @@ In this approach, the data is loaded from a JSON file and stored in a PostgreSQL
 
 ## Installation and Setup
 
-1. Clone the repository: [repository-url]
+1. Clone this repository. 
 2. Install the required dependencies:
-   ```bash
    pip install flask psycopg2
-   ```
 3. Set up your PostgreSQL database. Update the connection details in the code if necessary.
 4. Start the Flask server:
-   ```bash
-   python app_psycopg2.py
-   ```
+   python app2.py
 5. The server will start running at `http://localhost:5000`.
 
 ### Endpoints

@@ -1,3 +1,5 @@
+#Approach 2: psycopg2 + SQL Queries
+
 from flask import Flask, jsonify, request
 import psycopg2
 from psycopg2.extras import RealDictCursor

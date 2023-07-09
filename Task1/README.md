@@ -1,7 +1,6 @@
-Sure! Here's a README file for the provided codes:
+## Housing Price Regression Model
 
 ```markdown
-# Housing Price Regression Model
 
 This project consists of two Python scripts that build regression models to predict housing prices based on given features. The first script uses simple linear regression, while the second script employs multiple linear regression.
 

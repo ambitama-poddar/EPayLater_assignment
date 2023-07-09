@@ -64,12 +64,5 @@ Both scripts require the following dependencies:
 - seaborn
 
 You can install the dependencies using pip:
-```bash
 pip install matplotlib pandas joblib scikit-learn seaborn
-```
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ```

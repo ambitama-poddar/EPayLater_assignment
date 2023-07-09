@@ -45,7 +45,6 @@ This is a Flask-based REST API that handles housing data. It provides endpoints 
         "Location": "Los Angeles",
         "SalePrice": 350000
       },
-      ...
     ]
   }
   ```

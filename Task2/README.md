@@ -4,7 +4,10 @@
 
 ```markdown
 
-This is a Flask-based REST API that handles housing data. It provides endpoints for creating housing data from a JSON file, and retrieving average sale prices, maximum sale price, minimum sale price, and average sale prices per location using SQL queries.
+This is a Flask-based REST API that handles housing data.
+It provides endpoints for creating housing data from a JSON file,
+and retrieving average sale prices, maximum sale price, minimum sale price,
+and average sale prices per location using SQL queries.
 ```
 
 ## Installation and Setup
@@ -25,10 +28,10 @@ This is a Flask-based REST API that handles housing data. It provides endpoints 
 ### Create Housing Data
 ```markdown
 
-- **URL:** `/housing_data`
-- **Method:** POST
-- **Payload:** Provide a JSON object containing the housing data in the following format:
-  ```json
+- URL: `/housing_data`
+- Method: POST
+- Payload: Provide a JSON object containing the housing data in the following format:
+   json:
   {
     "data": [
       {

@@ -4,9 +4,13 @@
 
 This project consists of two Python scripts that build regression models to predict housing prices based on given features. The first script uses simple linear regression, while the second script employs multiple linear regression.
 
+```
+
 ## Instructions
 
 ### Dataset
+
+```markdown
 
 The dataset is provided in a CSV file called "housing_data.csv" in the code repository. It contains the following columns:
 
@@ -16,7 +20,11 @@ The dataset is provided in a CSV file called "housing_data.csv" in the code repo
 - Location: Categorical variable representing the neighborhood of the house
 - SalePrice: Sale price of the house in dollars
 
+```
+
 ### Simple Linear Regression
+
+```markdown
 
 1. Load and read the dataset from the CSV file.
 2. Split the data into training and testing sets. The first 50 rows are used for training, and the remaining rows are used for testing.
@@ -26,7 +34,11 @@ The dataset is provided in a CSV file called "housing_data.csv" in the code repo
 6. Make predictions on the testing data and calculate the root mean squared error (RMSE) between the predicted prices and the actual prices.
 7. Visualize the actual prices and predicted prices on a scatter plot.
 
+```
+
 ### Multiple Linear Regression
+
+```markdown
 
 1. Load and read the dataset from the CSV file.
 2. Split the data into training and testing sets. The first 50 rows are used for training, and the remaining rows are used for testing.
@@ -37,7 +49,11 @@ The dataset is provided in a CSV file called "housing_data.csv" in the code repo
 7. Make predictions on the testing data and calculate the root mean squared error (RMSE) between the predicted prices and the actual prices.
 8. Visualize the predicted prices against the actual prices using a scatter plot.
 
+```
+
 ## Dependencies
+
+```markdown
 
 Both scripts require the following dependencies:
 

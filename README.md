@@ -36,7 +36,7 @@ The dataset is provided in a CSV file called "housing_data.csv". It contains the
 
 - The code for this task is stored in the "Task1" folder.
 - "housing_data.csv" file contains the dataset.
-- "Task1.ipynb" is a Jupyter Notebook file that contains the code to load the dataset, perform data preprocessing, build and train regression models (linear regression and multiple linear regression), evaluate model performance, make predictions, calculate RMSE, and save the trained models.
+- "housing_data.ipynb" is a Jupyter Notebook file that contains the code to load the dataset, perform data preprocessing, build and train regression models (linear regression and multiple linear regression), evaluate model performance, make predictions, calculate RMSE, and save the trained models.
 - The trained models are saved in two separate files: "linear_regression_model.joblib" and "multiple_linear_regression_model.joblib".
 
 ```

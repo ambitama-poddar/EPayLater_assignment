@@ -111,9 +111,3 @@ pip install pandas matplotlib scikit-learn seaborn joblib Flask SQLAlchemy psyco
 This project is licensed under the [MIT License](LICENSE).
 
 ```
-
-Replace `[repository-url]` with the actual URL of your repository if you have it hosted online.
-
-Make sure to update the README file with relevant information specific to your project.
-
-Let me know if you need any further assistance!

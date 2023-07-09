@@ -101,13 +101,5 @@ The code requires the following dependencies:
 - For Task 2: Flask, SQLAlchemy, psycopg2
 
 You can install the dependencies using pip:
-
-```bash
 pip install pandas matplotlib scikit-learn seaborn joblib Flask SQLAlchemy psycopg2
-```
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ```

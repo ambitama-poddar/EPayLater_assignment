@@ -5,8 +5,11 @@
 ```markdown
 
 This is a Flask-based REST API that handles housing data. It provides endpoints for creating housing data from a JSON file, and retrieving average sale prices, maximum sale price, minimum sale price, and average sale prices per location using SQL queries.
+```
 
 ## Installation and Setup
+
+```markdown
 
 1. Clone this repository.
 2. Install the required dependencies:
@@ -93,9 +96,3 @@ In this approach, the data is loaded from a JSON file and stored in a PostgreSQL
 - **GET /average_sale_price_per_location**: Get the average sale price of houses per location.
 - **GET /max_sale_price**: Get the maximum sale price of houses.
 - **GET /min_sale_price**: Get the minimum sale price of houses.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-```
